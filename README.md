@@ -1,4 +1,4 @@
-Color Skins System
+Color Skins for NS2
 ==========
 
 ColoredSkins system for Natural Selection 2
